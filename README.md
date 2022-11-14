@@ -1,1 +1,1 @@
-# cock.github.io
+Powered by https://www.thecocktaildb.com/api.php
